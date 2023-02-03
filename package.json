@@ -1,6 +1,6 @@
 {
   "name": "user-list-json",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A package that contains list of user details",
   "main": "index.js",
   "scripts": {
