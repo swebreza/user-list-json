@@ -1,0 +1,22 @@
+{
+  "name": "user-list-json",
+  "version": "1.0.0",
+  "description": "A package that contains list of user details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swebreza/user-list-json.git"
+  },
+  "keywords": [
+    "user-list-json"
+  ],
+  "author": "MD Suweb Reza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/swebreza/user-list-json/issues"
+  },
+  "homepage": "https://github.com/swebreza/user-list-json#readme"
+}
