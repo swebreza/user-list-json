@@ -1,12 +1,12 @@
 # user-list-json
-##There are 1000 data set of randomly generated users.
+There are 1000 data set of randomly generated users.
 
-##To install this package 
+>To install this package 
 ```
 npm i user-list-json
 ```
 
-###Here is how we can use this
+>Here is how we can use this
 
 ```
 const data = require('user-list-json')
@@ -15,7 +15,7 @@ console.log(data(100))
 
 
 ```
-#Output
+>Output
 ```
 {
   id: 100,
